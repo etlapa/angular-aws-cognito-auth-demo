@@ -107,5 +107,8 @@
       }
     }
   },
-  "defaultProject": "angular-aws-cognito-auth-demo"
+  "defaultProject": "angular-aws-cognito-auth-demo",
+  "cli": {
+    "analytics": "b852938e-b7bb-431b-9f80-ecde89b7c1fb"
+  }
 }
